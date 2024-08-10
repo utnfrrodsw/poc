@@ -86,7 +86,7 @@ Se evaluarán los siguientes aspectos:
 * Compromiso y constancia en el trabajo.
 
 ### Selección del Tema
-Las tecnologías pueden ser seleccionadas de esta [lista](https://docs.google.com/spreadsheets/d/1rcFSM3SAtTqLY_oR1f57_YP56xb129S2jPtNZaFTVQM/edit?usp=sharing) o ser propuestas por los alumnos. En este último caso deberán obtener la aprobación del profesor.
+Las tecnologías pueden ser seleccionadas de esta [lista](https://docs.google.com/spreadsheets/d/1rqGwT-Z7qJogcAF3XjwOKeKgggHSupzmtirS8teii-c/edit?usp=sharing) o ser propuestas por los alumnos. En este último caso deberán obtener la aprobación del profesor.
 
 Cada tema tiene un número aproximado de integrantes, de acuerdo a su dificultad.
 
