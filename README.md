@@ -94,6 +94,6 @@ En caso de que más de un equipo elija la misma tecnología, si se pueden elegir
 
 ## Entregas y Fechas
 
-1. La selección de la tecnología debe realizarse en la semana del 25/9/23 al 29/9/23 en clase.
-2. La presentación final debe realizase durante el mes de octubre, la fecha y horario debe acordarse con el profesor.
+1. La selección de la tecnología debe realizarse antes del 13/6/25 en clase.
+2. La presentación final debe realizase durante los meses de agosto y septiembre, la fecha y horario debe acordarse con el profesor.
 3. El material para que los profesores lo revisen debe entregarse una semana antes.
